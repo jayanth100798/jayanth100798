@@ -16,4 +16,10 @@ Hi, I'm Jayanth.<br><br>I'm working on open-source projects, medical UI, CT reco
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayanth100798/jayanth100798/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayanth100798/jayanth100798/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jayanth100798/jayanth100798/output/github-snake.svg" />
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
